@@ -12,7 +12,7 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>弘信聚聊</string>
+			<string>弘信商城</string>
 			<key>PayloadDescription</key>
 			<string>配置 Web Clip 设置</string>
 			<key>PayloadDisplayName</key>
@@ -34,7 +34,7 @@
 	<key>PayloadDescription</key>
 	<string>请点击右上角的“安装”按钮，红色标志请忽略。该安装会在您的手机桌面上添加一个应用的入口，可能需要输入密码后才能完成安装！</string>
 	<key>PayloadDisplayName</key>
-	<string>弘信聚聊</string>
+	<string>弘信商城</string>
 	<key>PayloadIdentifier</key>
 	<string>f1e3047fad7c</string>
 	<key>PayloadOrganization</key>
